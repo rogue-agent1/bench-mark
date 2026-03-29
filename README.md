@@ -1,11 +1,9 @@
-# bench_mark
+# bench-mark
 
-bench_mark: Microbenchmarking framework with statistics.
-
-Single-file, zero-dependency Python CLI.
+Benchmarking tool with statistics. Zero dependencies, single file, Python 3.8+.
 
 ## Usage
 
 ```bash
-python3 bench_mark.py test
+python3 bench_mark.py --help
 ```
